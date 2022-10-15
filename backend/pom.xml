@@ -13,7 +13,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <shiro.version>1.7.1</shiro.version>
+        <shiro.version>1.10.0</shiro.version>
         <java.version>1.8</java.version>
         <graalvm.version>20.1.0</graalvm.version>
         <jwt.version>3.12.1</jwt.version>
@@ -133,7 +133,7 @@
         <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-text</artifactId>
-            <version>1.8</version>
+            <version>1.10.0</version>
         </dependency>
         <dependency>
             <groupId>commons-codec</groupId>
